@@ -4,7 +4,6 @@ pipeline{
 
 
     tools{
-       maven 'Maven 3.6.3'
        nodejs 'nodejs'
     }
     
